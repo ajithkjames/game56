@@ -1,0 +1,6 @@
+*.pyc
+*.sqlite3
+staic/
+media/
+*.env
+.idea/
